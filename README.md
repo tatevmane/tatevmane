@@ -5,13 +5,37 @@ Aspiring Data Scientist | Recent Graduate
 ------------------------------------------
 
 ### About Me
-I am eager to break into the field of Data Science and gain professional work experience after learning about cutting-edge technology in the classroom. 
-A great about section contains 3 parts mainly:
-A paragraph that includes your job, years of experience, and the value you bring to the table.
-Your projects with use cases in detail.
+I received my MS in Data Science from the University of Virginia in May 2024, and wasted no time putting my skills to use in a clinical data analyst position as part of a global health equity initiative in Tanzania. Seeing the impact and power of data science and effective communication has played a large role in my eagerness to gain professional experience and work on creative solutions to complex problems. 
 
-Contact me! <br />
+Let's connect! <br />
 📧 Email: tatevgomtsyan@gmail.com   
+
+### Professional Highlights 🌟
+**1. Clinical Data Analyst** - Center for Global Health Equity, UVA (2023 - 2024)
+•	Provided ad-hoc visualizations and data cleaning and analysis for clinical research
+•	Recommended patient sample data collection systems to monitor antibiotic resistance
+•	Received CGHE Scholar Award, leading to summer internship at infectious diseases hospital in Tanzania
+**2. Data Science Intern** - AINA Technologies, VA (2023 - 2024)
+-	Developed ML models (logistic, Naïve Bayes, ensemble) to detect human trafficking in legal texts 
+-	Processed text data (tokenization, NER) to generate 100 unique N-gram predictors for classification 
+-	Led client and mentor communications, task management, and team coordination 
+**3. Data Science Research Assistant** - School of Data Science, UVA (2022 - 2023)
+**4. Data Analyst Intern (Remote)** - Chief, NY (June 2022 – August 2022)
+- Analyzed LinkedIn and email data trends using Excel, SQL, and Tableau 
+-	Designed business analytics dashboards using SQL and Google Looker for marketing team
+-	Presented data-driven recommendations for member engagement to non-technical teams and stakeholders
+
+### Projects and Other Experiences
+**1. Olympic Insights Project** 									          	         
+-	Performed data cleaning, exploratory data analysis, and time series analysis to uncover patterns in data
+- Highlighted trends in female athlete performance through ‘plotly’ visualizations
+**2. INFORMS Analytics Conference Attendee**
+- Presented project on income disparities in US small businesses at conference poster competition 
+- Nominated for Early Career Professionals Network; participated in an operations case study 
+**3. Data Analytics Hackathon Participant**
+- Developed “Health Dash’, an interactive Tableau dashboard visualizing East Coast obesity trends
+**4. Launch Summer Program Participant**                                             
+- Completed 3 projects and 150+ hours of training in Python, Tableau, Google Data Studio, R, and SQL
 
 ### Education 🎓                                    	
 - **Masters in Data Science**, University of Virginia (UVA)
@@ -22,15 +46,6 @@ Contact me! <br />
 - **Frameworks & Libraries:** NLTK, Matplotlib, Numpy, Pandas, XGBoost, PyTorch, scikit-learn, SpaCy
 - **Tools:** Tableau, Looker, Excel, AWS, Git, Notion, Apache Spark, Inkscape, Observable
 - **Specialties:** Data Visualization & Insights, NLP
-
-### Professional Highlights 🌟
-- **Data Analysis Research Assistant** - Center for Global Health Equity, UVA (2023 - 2024)
-- **Data Science Intern** - AINA Technologies, VA (2023 - 2024)
-- **Data Science Research Assistant** - School of Data Science, UVA (2022 - 2023)
-- **Data Analyst Intern (Remote)** - Chief, NY (June 2022 – August 2022)
-
-### Projects and Other Experiences 📜
-
 
 ### Skills
 
