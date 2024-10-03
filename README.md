@@ -22,7 +22,7 @@ Let's connect! <br />
 -	Led client and mentor communications, task management, and team coordination <br />
 
 **3. Data Science Research Assistant** - School of Data Science (SDS), UVA (2022 - 2023) <br />
-- Digitized historical data (1800–2000)and automated information extraction using Named Entity Recognition (NER) models
+- Digitized historical data (1800–2000) and automated information extraction using Named Entity Recognition (NER) models
 - Analyzed higher education structures to identify patterns in DEI policy diffusion across U.S. universities
   
 **4. Data Analyst Intern (Remote)** - Chief, NY (June 2022 – August 2022)<br />
