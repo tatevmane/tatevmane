@@ -11,35 +11,35 @@ Let's connect! <br />
 📧 Email: tatevgomtsyan@gmail.com   
 
 ### Professional Highlights 🌟
-**1. Clinical Data Analyst** - Center for Global Health Equity, UVA (2023 - 2024)
-•	Provided ad-hoc visualizations and data cleaning and analysis for clinical research
-•	Recommended patient sample data collection systems to monitor antibiotic resistance
-•	Received CGHE Scholar Award, leading to summer internship at infectious diseases hospital in Tanzania
-**2. Data Science Intern** - AINA Technologies, VA (2023 - 2024)
--	Developed ML models (logistic, Naïve Bayes, ensemble) to detect human trafficking in legal texts 
--	Processed text data (tokenization, NER) to generate 100 unique N-gram predictors for classification 
--	Led client and mentor communications, task management, and team coordination 
-**3. Data Science Research Assistant** - School of Data Science, UVA (2022 - 2023)
-**4. Data Analyst Intern (Remote)** - Chief, NY (June 2022 – August 2022)
-- Analyzed LinkedIn and email data trends using Excel, SQL, and Tableau 
--	Designed business analytics dashboards using SQL and Google Looker for marketing team
--	Presented data-driven recommendations for member engagement to non-technical teams and stakeholders
+**1. Clinical Data Analyst** - Center for Global Health Equity, UVA (2023 - 2024) <br />
+•	Provided ad-hoc visualizations and data cleaning and analysis for clinical research <br />
+•	Recommended patient sample data collection systems to monitor antibiotic resistance <br />
+•	Received CGHE Scholar Award, leading to summer internship at infectious diseases hospital in Tanzania <br />
+**2. Data Science Intern** - AINA Technologies, VA (2023 - 2024) <br />
+-	Developed ML models (logistic, Naïve Bayes, ensemble) to detect human trafficking in legal texts <br />
+-	Processed text data (tokenization, NER) to generate 100 unique N-gram predictors for classification <br />
+-	Led client and mentor communications, task management, and team coordination <br />
+**3. Data Science Research Assistant** - School of Data Science, UVA (2022 - 2023) <br />
+**4. Data Analyst Intern (Remote)** - Chief, NY (June 2022 – August 2022)<br />
+- Analyzed LinkedIn and email data trends using Excel, SQL, and Tableau <br />
+-	Designed business analytics dashboards using SQL and Google Looker for marketing team<br />
+-	Presented data-driven recommendations for member engagement to non-technical teams and stakeholders<br />
 
 ### Projects and Other Experiences
-**1. Olympic Insights Project** 									          	         
--	Performed data cleaning, exploratory data analysis, and time series analysis to uncover patterns in data
-- Highlighted trends in female athlete performance through ‘plotly’ visualizations
-**2. INFORMS Analytics Conference Attendee**
-- Presented project on income disparities in US small businesses at conference poster competition 
-- Nominated for Early Career Professionals Network; participated in an operations case study 
-**3. Data Analytics Hackathon Participant**
-- Developed “Health Dash’, an interactive Tableau dashboard visualizing East Coast obesity trends
-**4. Launch Summer Program Participant**                                             
-- Completed 3 projects and 150+ hours of training in Python, Tableau, Google Data Studio, R, and SQL
+**1. Olympic Insights Project** 		<br />							          	         
+-	Performed data cleaning, exploratory data analysis, and time series analysis to uncover patterns in data<br />
+- Highlighted trends in female athlete performance through ‘plotly’ visualizations<br />
+**2. INFORMS Analytics Conference Attendee**<br />
+- Presented project on income disparities in US small businesses at conference poster competition <br />
+- Nominated for Early Career Professionals Network; participated in an operations case study <br />
+**3. Data Analytics Hackathon Participant**<br />
+- Developed “Health Dash’, an interactive Tableau dashboard visualizing East Coast obesity trends<br />
+**4. Launch Summer Program Participant**                                        <br />     
+- Completed 3 projects and 150+ hours of training in Python, Tableau, Google Data Studio, R, and SQL<br />
 
 ### Education 🎓                                    	
-- **Masters in Data Science**, University of Virginia (UVA)
-- **Bachelor in Global Studies**, UVA
+- **Masters in Data Science**, University of Virginia (UVA) '24, GPA: 3.89
+- **Bachelor in Global Studies**, UVA '23, GPA 3.78
 
 ### Tech Toolbox 🛠️ 
 - **Languages:** Python, R, SQL
