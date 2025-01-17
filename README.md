@@ -5,7 +5,7 @@ Aspiring Data Scientist
 ------------------------------------------
 
 ### About Me
-I received my MS in Data Science from the University of Virginia in May 2024, and wasted no time putting my skills to use in a clinical data analyst position as part of a global health equity initiative in Tanzania. Seeing the impact and power of data science and effective communication makes me eager to gain professional experience and work on creative solutions to complex problems. 
+Data Science and Analytics professiona skilled in programming (R, Python, SQL) and machine learning, with a focus on data-driven insights and process optimization. Collaborative and adaptable, eager to apply technical expertise to deliver solutions and drive efficiency in dynamic environments.
 
 Let's connect! <br />
 📧 Email: tatevgomtsyan@gmail.com
