@@ -1,7 +1,7 @@
 Hi 👋 My name is Tatev Gomtsyan
 ===============================
 
-Aspiring Data Scientist | Recent Graduate 
+Aspiring Data Scientist 
 ------------------------------------------
 
 ### About Me
