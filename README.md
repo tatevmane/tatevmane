@@ -1,11 +1,11 @@
 Hi 👋 My name is Tatev Gomtsyan
 ===============================
 
-Aspiring Data Scientist 
+Data Science and Analytics Professional 
 ------------------------------------------
 
 ### About Me
-Data Science and Analytics professiona skilled in programming (R, Python, SQL) and machine learning, with a focus on data-driven insights and process optimization. Collaborative and adaptable, eager to apply technical expertise to deliver solutions and drive efficiency in dynamic environments.
+Skilled in programming (R, Python, SQL) and machine learning, with a focus on data-driven insights and process optimization. Collaborative and adaptable, eager to apply technical expertise to deliver solutions and drive efficiency in dynamic environments.
 
 Let's connect! <br />
 📧 Email: tatevgomtsyan@gmail.com
