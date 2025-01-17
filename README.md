@@ -24,10 +24,10 @@ Let's connect! <br />
 </p>
 
 ### Professional Highlights 🌟
-**1. Clinical Data Analyst** - Center for Global Health Equity, UVA (2023 - 2024)<br /> 
-**2. Data Science Intern** - AINA Technologies, VA (2023 - 2024)<br />
-**3. Data Science Research Assistant** - School of Data Science (SDS), UVA (2022 - 2023)<br />
-**4. Data Analyst Intern (Remote)** - Chief, NY (June 2022 – August 2022)<br />
+- **. Research Data Analyst** - Center for Global Health Equity, UVA (2023 - 2024)<br /> 
+- **. Data Science Intern** - AINA Technologies, VA (2023 - 2024)<br />
+- **. Data Science Research Assistant** - School of Data Science (SDS), UVA (2022 - 2023)<br />
+- **. Data Analyst Intern (Remote)** - Chief, NY (June 2022 – August 2022)<br />
 
 ### Education 🎓                                    	
 - **Masters in Data Science**, University of Virginia (UVA) '24, GPA: 3.89
