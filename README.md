@@ -23,6 +23,7 @@ Let's connect! <br />
           <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tatevmane&repo=Job-App-Tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
       </td>
+    </tr>
       <td align="center">
         <a href="https://github.com/tatevmane/Health-Dash">
           <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tatevmane&repo=Health-Dash&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
