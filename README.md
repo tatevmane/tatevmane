@@ -23,22 +23,21 @@ Let's connect! <br />
           <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tatevmane&repo=Job-App-Tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/tatevmane/Olympic-Insights">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tatevmane&repo=Olympic-Insights&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        </a>
+      </td>
     </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/tatevmane/Health-Dash">
           <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tatevmane&repo=Health-Dash&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
       </td>
-    </tr>
-     <td align="center">
-        <a href="https://github.com/tatevmane/Olympics">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tatevmane&repo=Olympics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-        </a>
-      </td>
-    <tr>
       <td align="center">
-        <a href="https://github.com/tatevmane/UnceRtainty">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tatevmane&repo=UnceRtainty&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <a href="https://github.com/tatevmane/UnceRtainty-Package">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tatevmane&repo=UnceRtainty-Package&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
       </td>
     </tr>
