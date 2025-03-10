@@ -52,6 +52,7 @@ Let's connect! <br />
 </p>
 
 ### Professional Highlights 🌟
+- **Data Consultant (Volunteer)** - Armenian National Committee of America (2025 - Present)<br /> 
 - **Data Research Analyst** - Center for Global Health Equity, UVA (2023 - 2024)<br /> 
 - **Data Science Intern** - AINA Technologies, VA (2023 - 2024)<br />
 - **Data Science Research Assistant** - School of Data Science (SDS), UVA (2022 - 2023)<br />
